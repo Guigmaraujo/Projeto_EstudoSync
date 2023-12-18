@@ -1,0 +1,22 @@
+{'email': 'ehhafhgdahf@gmail.com', 'senha': 'uufhxzvfkbzxcjkbgljxf'}
+{'email': 'fahdgfhzghjv@gmail.com', 'senha': 'hzxfghzxjhfhxzfb'}
+{'email': 'guigms@gmail.com', 'senha': 'algumacoisa'}
+{'email': 'guigms@gmail.com', 'senha': 'algumacoisa'}
+{'email': 'Guinãosei@gmail.com', 'senha': 'algo'}
+{'email': 'Guinãosei@gmail.com', 'senha': 'algo'}
+{'email': 'Guinãosei@gmail.com', 'senha': 'algo'}
+{'email': 'guigms@seila.com', 'senha': 'aauladosergioeincrivel'}
+{'email': 'guinsei@nsei.com', 'senha': 'paulosergio'}
+{'email': 'guinaosei@naosei.com', 'senha': 'paulosergio'}
+{'email': 'jaosin@nsei.com', 'senha': '12345'}
+{'email': 'jaosin@nsei.com', 'senha': '12345'}
+{'email': 'jaosin@nsei.com', 'senha': '12345'}
+{'email': 'gui9uasdghgbsg@gggg.com', 'senha': 'eusinho'}
+hbragio@gmail.com
+123456
+gilherme@gmail.com
+654321
+gilherme@gmail.com
+654322
+gilherme@gmail.com
+654322

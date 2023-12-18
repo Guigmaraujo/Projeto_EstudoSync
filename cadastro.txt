@@ -1,0 +1,5 @@
+{'nome': 'hkfdsg', 'email': 'eafbdfknvzndfb@gmail.com', 'senha': 'jjfdhfdhdfxh', 'check': 'dfhxhvhxhchdfc'}
+{'nome': 'guig', 'email': 'guisnssndfb@yahoo.com', 'senha': '0tetbhdj', 'check': '0tetbhdj'}
+{'nome': 'affdgsh', 'email': 'agwgdvhgbad@naosei.com', 'senha': 'aaaa', 'check': 'aaaa'}
+{'nome': 'pedro', 'email': 'hbragio@gmail.com', 'senha': '123456', 'check': '123456'}
+{'nome': 'gilherme', 'email': 'gilherme@gmail.com', 'senha': '654321', 'check': '654321'}
